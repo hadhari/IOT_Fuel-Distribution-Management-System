@@ -20,7 +20,7 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 
 ## Cloud Platform & Data Storage
-- Cloud run
+- Cloud Run
 - Google Sheets
 
 
