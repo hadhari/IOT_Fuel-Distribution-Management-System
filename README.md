@@ -10,18 +10,22 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 ## System Architecture
 
-
+![Systems Architecture](https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/9bbf7a9d26c243b96eabef7e301a7c3c436403e9/SystemArchitecture.jpg)
 
 ## Sensor & Device
 - Nodemcu ESP8266
 - Ultrasonic Sensor
 
+![Sensors](https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/5cec14d1260aa819db55c977d8622fbc686b5b4c/Sensor.png)
 
 
-## Cloud Platform
+## Cloud Platform & Data Storage
 - Cloud run
+- Google Sheets
+
 
 ## Dashboard
 - Google Data Studio
 link design: https://whimsical.com/ui-design-dashboard-Qie5ESqWoCWTfTCax6F7Vz@2Ux7TurymMthALJQxo7Y 
 
+![UI Design Dashboard - Window](https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/6874c8e42c35eec90e9df73a13b9d8563af161c1/UI%20Design%20Dashboard%20-%20Window.png)
