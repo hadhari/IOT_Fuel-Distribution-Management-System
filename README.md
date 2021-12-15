@@ -27,6 +27,7 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 ## Dashboard
 Our project will be Using Google Data Studio based on this reference :
 - Google Data Studio
+
 link design: https://whimsical.com/ui-design-dashboard-Qie5ESqWoCWTfTCax6F7Vz@2Ux7TurymMthALJQxo7Y 
 
 ![UI Design Dashboard - Window](https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/6874c8e42c35eec90e9df73a13b9d8563af161c1/UI%20Design%20Dashboard%20-%20Window.png)
