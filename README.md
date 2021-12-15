@@ -12,7 +12,7 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 
 
-## Sensors & Device
+## Sensor & Device
 - Nodemcu ESP8266
 - Ultrasonic Sensor
 
