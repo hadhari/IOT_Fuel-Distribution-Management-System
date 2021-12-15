@@ -10,7 +10,7 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 ## System Architecture
 
-![Systems Architecture](https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/9bbf7a9d26c243b96eabef7e301a7c3c436403e9/SystemArchitecture.jpg)
+<img src="https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/9bbf7a9d26c243b96eabef7e301a7c3c436403e9/SystemArchitecture.jpg" width="800">
 
 ## Sensor & Device
 - Nodemcu ESP8266
