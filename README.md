@@ -25,6 +25,7 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 
 ## Dashboard
+Our project will be Using Google Data Studio based on this reference :
 - Google Data Studio
 link design: https://whimsical.com/ui-design-dashboard-Qie5ESqWoCWTfTCax6F7Vz@2Ux7TurymMthALJQxo7Y 
 
