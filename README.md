@@ -20,14 +20,14 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 
 ## Cloud Platform & Data Storage
-We are using pythonAnywhere to host our django platform
-the demo is shown in the video below
+We are using pythonAnywhere to host our django framework
+the demo is shown in the video below:
 
+https://user-images.githubusercontent.com/70887963/146307343-e670edd9-f833-4697-b40e-8b4e619b0af9.mp4
 
-Uploading group 3 ms2 webhosting.mp4…
-
-
-- Google Sheets
+we have some method to send our data to the database from django framework
+- First option isusing Cloud Run web hosting, this method send data to the database can be accessed using big query or directly send it to google sheet.
+- Second option is sending the data directly from nodemcu to gsheet via google script.
 
 
 ## Dashboard
