@@ -20,7 +20,13 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 
 ## Cloud Platform & Data Storage
-- Cloud Run
+We are using pythonAnywhere to host our django platform
+the demo is shown in the video below
+
+
+Uploading group 3 ms2 webhosting.mp4…
+
+
 - Google Sheets
 
 
