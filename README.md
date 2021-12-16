@@ -8,6 +8,10 @@
 The Internet of Things (IoT) refers to physical objects that are equipped with sensors, processing power, software, and other technologies and may communicate with other devices and systems over the Internet or other communication networks. The term "internet of things" refers to physical objects that are embedded with sensors, processing power, software, and other technologies, and that link and exchange data with other devices and systems over the Internet.
 Fuel distribution management for Diesel and Gasoline is gathering data procedures that describe how many fuels are filled in some pump stations across the city. Due to the demand of the population in Jakarta to get the fuel for their transportation and Because of the large number of gas stations in the city, good gasoline distribution management technology is required. Thus, we will construct a fuel distribution system based on the internet of things in the milestone project. We obtain data from each gas station in this project, such as how much fuel inside the tank and on what date this gas station must be filled from TBBM PERTAMINA (Terminal Bahan Bakar Minyak PERTAMINA) at Plumpang, Jakarta.
 
+## Case Diagram
+
+![case diagram](https://user-images.githubusercontent.com/70887963/146316658-74df0a7d-395b-469e-8672-21b05e87fddc.png)
+
 ## System Architecture
 
 <img src="https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/13e7425a21aab39f2189041037edd16f71e05bba/SystemArchitecture.jpg" width="800">
