@@ -21,7 +21,8 @@ Fuel distribution management for Diesel and Gasoline is gathering data procedure
 
 ## Cloud Platform & Data Storage
 We are using pythonAnywhere to host our django framework
-the demo is shown in the video below:
+
+the demo is shown by porting our milestone 1 django project to python Anywhere in the video below:
 
 https://user-images.githubusercontent.com/70887963/146307343-e670edd9-f833-4697-b40e-8b4e619b0af9.mp4
 
