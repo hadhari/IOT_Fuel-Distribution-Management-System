@@ -35,10 +35,39 @@ we have some method to send our data to the database from django framework
 - Second option is sending the data directly from nodemcu to gsheet via google script.
 
 
-## Dashboard
+## Dashboard Design
 Our project will be Using Google Data Studio based on this reference :
 - Google Data Studio
 
 link design: https://whimsical.com/ui-design-dashboard-Qie5ESqWoCWTfTCax6F7Vz@2Ux7TurymMthALJQxo7Y 
 
 ![UI Design Dashboard - Window](https://github.com/hadhari/IOT_Fuel-Distribution-Management-System/blob/6874c8e42c35eec90e9df73a13b9d8563af161c1/UI%20Design%20Dashboard%20-%20Window.png)
+
+## Final Dashboard
+
+![Screenshot 2022-02-19 125614](https://user-images.githubusercontent.com/70887963/154789227-c4ba434a-29e1-446f-9bb1-5115e104e916.png)
+
+## Clone from Terminal
+
+```
+git clone "https://github.com/rifatrkf/Milestone5--Group3.git"
+```
+
+
+### run the django local Host
+
+make sure we go to the directory
+
+```
+cd milestone 5
+```
+
+there is a python file named manage.py, then run it
+
+```
+python3 manage.py runserver
+```
+
+then click the address, and the output will be:
+
+![image](https://user-images.githubusercontent.com/70887963/154788815-65bf1a49-b369-4f92-93bf-3fa9bd320547.png)
